@@ -1,0 +1,6 @@
+{
+  "name": "스마트 분리수거 스캐너",
+  "description": "카메라 센서 스캔으로 쓰레기를 자동 감지하고 올바른 재질 분류, 4단계 세척 가이드, 배출 수칙을 알려주는 AI 분리수거 도우미",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
